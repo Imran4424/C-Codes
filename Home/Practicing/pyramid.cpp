@@ -13,7 +13,7 @@ int main(int argc, char const *argv[])
 	{
 		for(int j = i+1; j <= 2*i; j++)
 		{
-			cout<<i;
+			cout<<j;
 		}
 
 		cout<<endl;
