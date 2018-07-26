@@ -11,7 +11,7 @@ int main(int argc, char const *argv[])
 
 	for (int i = 1; i <= n; i++)
 	{
-		for(int j = i+1; j <= 2i; j++)
+		for(int j = i+1; j <= 2*i; j++)
 		{
 			cout<<i;
 		}
