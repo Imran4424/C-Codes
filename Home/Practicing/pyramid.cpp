@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
 {
 	int n;
 
-	c>>n;
+	cin>>n;
 
 	for (int i = 1; i <= n; i++)
 	{
